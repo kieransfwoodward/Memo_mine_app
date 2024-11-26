@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110112353725",
+    "firebase_url": "https://mine-application-686e2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mine-application-686e2",
+    "storage_bucket": "mine-application-686e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110112353725:android:6a01256185b8ae2b0176d4",
+        "android_client_info": {
+          "package_name": "com.memo.inscription"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110112353725-rsr35sgb2baevhk8ucn1dl604f41pf86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWS8dAqTfoklWHXT3AVYuJfW7SMYy6cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110112353725-rsr35sgb2baevhk8ucn1dl604f41pf86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
